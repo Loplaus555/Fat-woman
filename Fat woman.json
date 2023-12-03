@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1701611831",
       "groups": {
-        "Fattyloveranon": "/proxy/api/imgur/chapter/Vnvz0p8/"
+        "Fattyloveranon": [
+          "https://imgur.com/a/Vnvz0p8"
+        ]
       }
     },
     "2": {
