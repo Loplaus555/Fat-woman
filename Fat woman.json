@@ -10,9 +10,7 @@
       "volume": "1",
       "last_updated": "1701611831",
       "groups": {
-        "Fattyloveranon": [
-          "https://imgur.com/a/Vnvz0p8"
-        ]
+        "Fattyloveranon": "/proxy/api/imgur/chapter/Vnvz0p8"
       }
     },
     "2": {
@@ -21,6 +19,46 @@
       "last_updated": "1701611889",
       "groups": {
         "Fattyloveranon": "/proxy/api/imgur/chapter/Fyupv03/"
+      }
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "last_updated": "1701612742",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/qyi20nu"
+      }
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "last_updated": "1701612774",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/HMh6CjA"
+      }
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "last_updated": "1701612786",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/3JlPdP8"
+      }
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "last_updated": "1701612806",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/loIRvml"
+      }
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "1",
+      "last_updated": "1701612827",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/3DjCNQr"
       }
     }
   }
